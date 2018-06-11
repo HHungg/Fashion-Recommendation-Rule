@@ -1,3 +1,3 @@
 # Fashion Recommendation using Rule: Apriori algorithm
-  View "My slide.pdf" for detail
+  View "Fashion Recommendation.pdf" for detail
   
